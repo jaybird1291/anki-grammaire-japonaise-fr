@@ -2,6 +2,12 @@
 
 Deck Anki de 831 fiches de grammaire japonaise du JLPT N5 à N1 pour francophones.
 
+Exemples :
+
+![](image1.png)
+
+![](image2.png)
+
 ## Contenu
 
 - 831 fiches du JLPT N5 au N1
@@ -18,7 +24,5 @@ Deck Anki de 831 fiches de grammaire japonaise du JLPT N5 à N1 pour francophone
 3. Confirmez l'importation du deck.
 
 ## Licence
-
-Le contenu pédagogique est distribué sous licence Apache-2.0 license.
 
 Noto Sans JP est distribuée sous SIL Open Font License 1.1.
