@@ -19,7 +19,7 @@ Exemples :
 
 ## Installation
 
-1. Téléchargez `Grammaire_japonaise_JLPT_FR.apkg`.
+1. Téléchargez le deck
 2. Ouvrez le fichier avec Anki.
 3. Confirmez l'importation du deck.
 
